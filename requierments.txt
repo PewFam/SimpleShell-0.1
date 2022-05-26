@@ -1,0 +1,7 @@
+pip install os
+pip install pyautogui
+pip install random
+pip install turtle
+pip install colorama
+pip install pystyle
+pip install time
