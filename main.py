@@ -149,7 +149,7 @@ if os.name == "posix":
             calc = input('\n>>> what would you i do ? (need help ? write "help") -> ')
             if calc == "help":
                 os.system('clear')
-                print('\n* -> multiplicate', "\n+ -> add", "\n- -> subtract", "\n/ -> divise")
+                print('\n* -> multiply', "\n+ -> add", "\n- -> subtract", "\n/ -> divide")
             
             if calc == "*":
                 s = int(nbr1) * int(nbr2)
