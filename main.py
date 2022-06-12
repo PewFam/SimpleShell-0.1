@@ -167,7 +167,7 @@ if os.name == "posix":
                 s = int(nbr1) / int(nbr2)
                 print('{0} / {1} = {2}'.format(nbr1, nbr2, s))
             #
-        if cd == "mBigerEvent":
+        if cd == "lgbtEvent":
             for i in range(100):
                 print(Fore.BLUE, Back.RED, "LGBT")
                 sleep(0.003)
